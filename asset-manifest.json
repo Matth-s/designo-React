@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fe3668de.css",
+    "main.js": "/static/js/main.8151d031.js",
+    "static/media/image-map-canada.png": "/static/media/image-map-canada.dce629d05bc8e73377a2.png",
+    "static/media/image-map-uk.png": "/static/media/image-map-uk.0bcaa252551c0b35ac9b.png",
+    "static/media/image-about-hero.jpg": "/static/media/image-about-hero.001e81033220757a4ac3.jpg",
+    "static/media/image-web-design-large.jpg": "/static/media/image-web-design-large.8fe8b44b30f05484e55b.jpg",
+    "static/media/image-map-australia.png": "/static/media/image-map-australia.3afe58f844c7a8db0f71.png",
+    "static/media/image-real-deal.jpg": "/static/media/image-real-deal.036b9d804dafedece91b.jpg",
+    "static/media/image-world-class-talent.jpg": "/static/media/image-world-class-talent.406c786c88f369a85217.jpg",
+    "static/media/image-map-united-kingdom.png": "/static/media/image-map-united-kingdom.f1e269b33425f9c9ff8d.png",
+    "static/media/image-graphic-design.jpg": "/static/media/image-graphic-design.0cf15163a0420a5834f4.jpg",
+    "static/media/image-web-design.jpg": "/static/media/image-web-design.7790aab8fee70fe6111a.jpg",
+    "static/media/image-app-design.jpg": "/static/media/image-app-design.1f02d5b7416fd1c087ad.jpg",
+    "index.html": "/index.html",
+    "static/media/bg-pattern-small-circle.svg": "/static/media/bg-pattern-small-circle.6998c69d139ac33cf6f7.svg",
+    "main.fe3668de.css.map": "/static/css/main.fe3668de.css.map",
+    "main.8151d031.js.map": "/static/js/main.8151d031.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe3668de.css",
+    "static/js/main.8151d031.js"
+  ]
+}
